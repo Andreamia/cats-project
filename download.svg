@@ -12,7 +12,7 @@
   xml:space="preserve"
   height="100%"
 >
-  <switch style="" fill="currentColor">
+  <switch style="" fill="#0d0d0d">
     <foreignObject
       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
       x="0"
